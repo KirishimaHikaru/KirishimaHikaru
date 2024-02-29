@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirishimaHikaru
-- 👀 I’m interested in books and a women
+- 👀 I’m interested in books and a person
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I'm looking to collaborate on nothing
 - 📫 How to reach me: DM personally
